@@ -1,0 +1,16 @@
+D:\.NET WrokSpace\LAB-3\Code_2\bin\Debug\net5.0\Code_2.exe
+D:\.NET WrokSpace\LAB-3\Code_2\bin\Debug\net5.0\Code_2.deps.json
+D:\.NET WrokSpace\LAB-3\Code_2\bin\Debug\net5.0\Code_2.runtimeconfig.json
+D:\.NET WrokSpace\LAB-3\Code_2\bin\Debug\net5.0\Code_2.runtimeconfig.dev.json
+D:\.NET WrokSpace\LAB-3\Code_2\bin\Debug\net5.0\Code_2.dll
+D:\.NET WrokSpace\LAB-3\Code_2\bin\Debug\net5.0\ref\Code_2.dll
+D:\.NET WrokSpace\LAB-3\Code_2\bin\Debug\net5.0\Code_2.pdb
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.csproj.AssemblyReference.cache
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.AssemblyInfoInputs.cache
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.AssemblyInfo.cs
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.csproj.CoreCompileInputs.cache
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.dll
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\ref\Code_2.dll
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.pdb
+D:\.NET WrokSpace\LAB-3\Code_2\obj\Debug\net5.0\Code_2.genruntimeconfig.cache

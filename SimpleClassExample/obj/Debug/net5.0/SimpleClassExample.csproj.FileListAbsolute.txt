@@ -1,0 +1,16 @@
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\bin\Debug\net5.0\SimpleClassExample.exe
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\bin\Debug\net5.0\SimpleClassExample.deps.json
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\bin\Debug\net5.0\SimpleClassExample.runtimeconfig.json
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\bin\Debug\net5.0\SimpleClassExample.runtimeconfig.dev.json
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\bin\Debug\net5.0\SimpleClassExample.dll
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\bin\Debug\net5.0\ref\SimpleClassExample.dll
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\bin\Debug\net5.0\SimpleClassExample.pdb
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.csproj.AssemblyReference.cache
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.AssemblyInfoInputs.cache
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.AssemblyInfo.cs
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.csproj.CoreCompileInputs.cache
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.dll
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\ref\SimpleClassExample.dll
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.pdb
+D:\.NET WrokSpace\LAB-3\SimpleClassExample\obj\Debug\net5.0\SimpleClassExample.genruntimeconfig.cache
